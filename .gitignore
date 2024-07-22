@@ -62,3 +62,5 @@ temp/
 
 
 .npmrc
+
+memo*.txt
